@@ -2,5 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    padding-top: 34px;
+    margin: 0 auto;
+    padding: 0 148px;
+    padding-bottom: 58px;
 }

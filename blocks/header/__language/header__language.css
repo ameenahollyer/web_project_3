@@ -13,4 +13,5 @@
 
 .header__language:last-child {
     margin-right: 0;
+    text-decoration-line: none;
 }

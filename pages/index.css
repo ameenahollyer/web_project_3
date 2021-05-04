@@ -10,3 +10,5 @@
 @import url(../blocks/lead/__lead-image/lead__lead-image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/intro/intro.css);
+@import url(../blocks/section-narrow/section-narrow.css);
+@import url(../blocks/section-wide/section-wide.css);

@@ -28,3 +28,9 @@
 @import url(../blocks/footer/__links_link/footer__links_link.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__link/_title/place__link_title.css);
+@import url(../blocks/place/__link/_address/place__link_address.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph/_content/place__paragraph_content.css);

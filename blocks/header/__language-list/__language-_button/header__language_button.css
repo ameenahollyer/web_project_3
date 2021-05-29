@@ -1,0 +1,8 @@
+.header__language_button {
+    text-decoration: none;
+    transition: opacity 300ms;
+}
+
+.header__language_button:hover {
+    opacity: .8;
+}

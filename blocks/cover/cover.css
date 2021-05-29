@@ -1,0 +1,15 @@
+.cover {
+    min-height: 740px;
+    background-image: url(../../images/cover-route-66.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    position: relative;
+    z-index: 1;
+    margin-bottom: 92px;
+}
+
+.cover:hover .cover__overlay {
+    opacity: .8;
+}

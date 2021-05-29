@@ -6,4 +6,9 @@
     text-decoration-line: underline;
     color: #FFFFFF;
     margin-bottom: 48px;
+    transition: opacity 300ms;
+}
+
+.place__link_address:hover {
+    opacity: .8;
 }

@@ -1,3 +1,9 @@
 .section-wide {
     padding: 0 48px;
 }
+
+@media screen and (max-width: 1024px) {
+    .section-wide {
+        padding: 0;
+    }
+}

@@ -5,3 +5,10 @@
     padding-bottom: 92px;
     grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
 }
+
+@media screen and (max-width: 1024px) {
+    .photo-grid {
+        padding: 0 48px;
+        margin-bottom: 92px;
+    }
+}

@@ -11,7 +11,7 @@ This is a project about traveling across the US. We've made it so all the elemen
 
 **Figma**
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+* [Link to the project on Github] https://github.com/ameenahollyer/web_project_3
 
 **Images**
 

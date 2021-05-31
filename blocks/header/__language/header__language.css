@@ -15,3 +15,9 @@
     margin-right: 0;
     text-decoration-line: none;
 }
+
+@media screen and (max-width: 320px) {
+    .header__language {
+        font-size: 18px;
+    }
+}

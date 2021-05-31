@@ -6,3 +6,10 @@
     margin: auto;
     margin-bottom: 80px;
 }
+
+@media screen and (max-width: 320px) {
+    .place {
+        max-width: 320px;
+        grid-gap: 12px;
+    }
+}

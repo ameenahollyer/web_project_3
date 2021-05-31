@@ -2,7 +2,13 @@
     padding: 0 48px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
+    .section-wide {
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
     .section-wide {
         padding: 0;
     }

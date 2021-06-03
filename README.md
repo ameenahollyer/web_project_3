@@ -1,20 +1,15 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
-
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This website details a trip accross the USA starting from Portland, ME, and ending in Portland, OR. The website is fully responsive across most common screen sizes.
 
-**Figma**
+**Project Link**
 
-* [Link to the project on Github] https://github.com/ameenahollyer/web_project_3
+* https://github.com/ameenahollyer/web_project_3
 
-**Images**
+**Technologies and Techniques Used**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+The website was built using HTML and CSS in VSCode with focus on creating a responsive design.
 
-Good luck and have fun!
+

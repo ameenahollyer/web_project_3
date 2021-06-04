@@ -4,9 +4,3 @@
     margin: auto;
     margin-bottom: 8px;
 }
-
-@media screen and (max-width: 768px) {
-    .lead__lead-image {
-        padding: 0;
-    }
-}

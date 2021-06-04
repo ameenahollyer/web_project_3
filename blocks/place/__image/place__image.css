@@ -5,8 +5,8 @@
 
 @media screen and (max-width: 768px) {
     .place__image {
-        height: 320px;
-        width: 320px;
+        width: 340px;
+        height: 340px
     }
 }
 

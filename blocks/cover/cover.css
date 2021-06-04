@@ -9,15 +9,18 @@
     z-index: 1;
     margin-bottom: 92px;
     max-width: 1184px;
-}
-
-.cover:hover .cover__overlay {
-    opacity: .8;
+    margin: 0 48px;
 }
 
 @media screen and (max-width: 1024px) {
     .cover {
         max-height: 640px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        height: 480px;
     }
 }
 

@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 768px) {
     .section_type_narrow {
-        padding: 0 24px;
+        padding: 0;
     }
 }
 

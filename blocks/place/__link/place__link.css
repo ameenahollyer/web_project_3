@@ -2,3 +2,9 @@
     display: grid;
     align-self: flex-end;
 }
+
+@media screen and (max-width: 320px) {
+    .place__link {
+        padding: 0 16px;
+    }
+}

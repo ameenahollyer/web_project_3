@@ -3,9 +3,28 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 740px;
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
+    min-height: 740px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__background {
+        min-height: 640px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__background {
+        min-height: 480px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__background {
+        min-height: 200px;
+        width: 320px;
+    }
 }

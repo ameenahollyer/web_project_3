@@ -1,6 +1,6 @@
 .cover {
     min-height: 740px;
-    background-image: url(../../images/cover-route-66.jpg);
+    /*background-image: url(../../images/cover-route-66.jpg);*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,6 +10,8 @@
     margin-bottom: 92px;
     max-width: 1184px;
     margin: 0 48px;
+    justify-content: center;
+    align-items: center;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,7 +24,7 @@
 
 @media screen and (max-width: 768px) {
     .cover {
-        height: 480px;
+        min-height: 480px;
         margin: 0;
         margin-bottom: 88px;
     }

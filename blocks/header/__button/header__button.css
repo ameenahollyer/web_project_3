@@ -13,6 +13,13 @@
     text-decoration-line: underline;
 }
 
-.header_button:hover {
+.header__button:hover {
     opacity: .8;
+}
+
+@media screen and (max-width: 320px) {
+    .header__button {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }

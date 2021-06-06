@@ -6,7 +6,7 @@ This website details a trip accross the USA starting from Portland, ME, and endi
 
 **Project Link**
 
-* https://github.com/ameenahollyer/web_project_3
+* https://ameenahollyer.github.io/web_project_3/
 
 **Technologies and Techniques Used**
 

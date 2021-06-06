@@ -1,17 +1,16 @@
 .cover {
     min-height: 740px;
-    /*background-image: url(../../images/cover-route-66.jpg);*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     position: relative;
     z-index: 1;
-    margin-bottom: 92px;
     max-width: 1184px;
     margin: 0 48px;
     justify-content: center;
     align-items: center;
+    margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -25,7 +24,6 @@
 @media screen and (max-width: 768px) {
     .cover {
         min-height: 480px;
-        margin: 0;
         margin-bottom: 88px;
     }
 }

@@ -1,8 +1,0 @@
-.header__button {
-    text-decoration: none;
-    transition: opacity 300ms;
-}
-
-.header__button:hover {
-    opacity: .8;
-}

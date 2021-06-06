@@ -7,10 +7,7 @@
     text-decoration: none;
     transition: opacity 300ms;
     color: #fff;
-}
-
-.header__button_active {
-    text-decoration-line: underline;
+    text-decoration-line: none;
 }
 
 .header__button:hover {

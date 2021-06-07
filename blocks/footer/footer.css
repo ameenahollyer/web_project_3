@@ -4,6 +4,7 @@
     font-weight: 400;
     padding: 0 48px;
     align-items: baseline;
+    margin-bottom: 24px;
 }
 
 @media screen and (max-width: 768px) {
